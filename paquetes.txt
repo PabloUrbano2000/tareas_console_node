@@ -1,0 +1,8 @@
+COLORS:
+https://www.npmjs.com/package/colors
+
+UUID:
+https://www.npmjs.com/package/uuid
+
+INQUIRE:
+https://www.npmjs.com/package/inquirer
